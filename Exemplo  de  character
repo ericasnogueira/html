@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8" , http-equiv="content-typer" content="text/html">
+	<title> exemplos de caracter </title>
+</head>
+<body>
+	<h1>EXEMPLOS</h1>
+	<ul>
+		<li>&starf;&bigstar;&#x02605;&#9733; </li>
+        <li>&phone;&#x0260E;&#9742; </li>
+        <li>&female;&#x02640;&#9792; </li>
+        <li>&sung;&#x0266A;&#9834; </li>
+	</ul>
+	<a href="http://dev.w3.org/html5/html-author/charref" title="para mais caracter" target="_blank">PARA MAIS CARACTER</a>
+</body>
+</html>
