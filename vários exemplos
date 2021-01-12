@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PRIMEIRO HTML</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<div>
+			<h1>titulo 1</h1> 
+
+			<p><strong>Lorem ipsum dolor sit amet</strong>, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<!--
+				autora : erica silva nogueira
+				idade :19
+				somente teste mesmo
+			-->
+		</div>
+		<div>
+			<h2>titulo 2</h2>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut <strong>aliquip ex ea commodo
+			consequat</strong>. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p><br>ERICASN  <strong>MB</strong>tech </p>
+		</div>
+		<div>
+			<h3>titulo 3</h3> 
+			
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation<em>"ERICA SILVA NOGUEIRA"</em> ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. <span style="font-style: italic;font-weight: bold;text-decoration: underline;color: red"> erica silva a melhor em pubg rumo ao conquistador...... </span>Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur.<strong><em>ericasn</em></strong> Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+		<div>
+			<p><strong>lista de jogos que tenho</strong> : com lista ordenada</p>
+			<ol>
+				<li>8 ball pool</li>
+				<li><a href ="https://www.pubg.com/en-us/"title="PUBG MOBILE SITE" target="_blank">PUBG MOBILE</a></li>
+				<li>Clash of clans</li>
+				<li>GTA: SAN</li>
+				<li>TRAFFI RIDER</li>
+				<li>CALL OF DUTY</il>
+				<li>FOTNITE : NÃO RECOMENDO</li>
+			</ol>
+			<p><strong>lista de jogos que tenho</strong> : com lista  não ordenada</p>
+				<ul>
+					<li>8 ball pool</li>
+					<li>PUBG MOBILE</li>
+					<li>Clash of clans</li>
+					<li>GTA: SAN</li>
+					<li>TRAFFI RIDER</li>
+					<li>CALL OF DUTY</il>
+					<li>FOTNITE : NÃO RECOMENDO</li>
+				</ul>
+
+				<p><span style="color: blue"> Amostra de imagem de saiki</span></p>
+				<p><strong>adicionar imagens</strong> </p>
+				<img src="imagens/saiki.png" alt="saiki usado como exemplo" width="600"height= "500" >
+		</div>
+		<div>
+			<p>teste de novas tags</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>
+			quis nostrud exercitation<a href="pagina2.html"title="Clique aqui neste link" target="_blank"> AQUI SERIA O LINK MAS COMO ISSO É SOMENTE UM TESTE ESTÁ ASSIM</a> ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+		<div>
+			<p>TABELA CENTRALIZDA EM NEGRITO 2º SGUNDO TESTE </p>
+			<table align="center" width="900">
+				<thead>
+					<tr>
+						<th>nome</th>
+						<th>idade</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>erica</td>
+						<td>19 anos </td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</body>
+</html>
