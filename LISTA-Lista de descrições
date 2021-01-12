@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8" , http-equiv="content-typer" content="text/html">
+	<title> exemplos de caracter </title>
+</head>
+<body>
+	<h1>Exemplo  de  lista  de  descrições</h1>
+	<dl>
+		<dt><strong>PARLER</strong></dt>
+		<dd>Parler é um serviço de microblogue e rede social estadunidense lançado em agosto de 2018. Parler tem uma significativa base de usuários apoiadores de conservadores.
+		</dd>
+		<dt><strong>whatsapp</strong></dt>
+		<dd>WhatsApp é um aplicativo multiplataforma de mensagens instantâneas e chamadas de voz para smartphones.</dd>
+	</dl>
+</body>
+</html>
