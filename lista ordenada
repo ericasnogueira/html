@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8" , http-equiv="content-typer" content="text/html">
+	<title> exemplos de lista ordenada </title>
+</head>
+<body>
+	<p><strong>lista de jogos que tenho</strong> : com lista ordenada</p>
+			<ol>
+				<li>8 ball pool</li>
+				<li><a href ="https://www.pubg.com/en-us/"title="PUBG MOBILE SITE" target="_blank">PUBG MOBILE</a></li>
+				<li>Clash of clans</li>
+				<li>GTA: SAN</li>
+				<li>TRAFFI RIDER</li>
+				<li>CALL OF DUTY</il>
+				<li>FOTNITE : NÃO RECOMENDO</li>
+			</ol>
+
+</body>
+</html>
