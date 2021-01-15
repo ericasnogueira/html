@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>formulário básico</title>
+</head>
+<body>
+    <form action="parametros.php" method="post">
+      <label for="nome_id">NOME : </label>
+      <input id="nome_id" type="text" name="nome" placeholder="DIGITE SEU NOME"/>
+
+      <label for="estado_id">ESTADO : </label>
+      <input id="estado_id" type="text" name="estado" placeholder="DIGITE SEU ESTADO" />
+      <input type="submit" value="ENVIAR" />
+      
+    </form>
+</body>
+</html>
